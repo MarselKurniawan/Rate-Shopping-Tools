@@ -1,0 +1,1057 @@
+[
+  {
+    "name": "Youstay Semarang",
+    "hotel_slug": "Youstay Semarang",
+    "type": "self",
+    "hotel_id": "9000000883155",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Edsamara Hotel",
+    "type": "competitor",
+    "hotel_id": "9000001109895",
+    "ota": "traveloka",
+    "of": "Youstay Semarang"
+  },
+  {
+    "hotel_slug": "Kiyana Hotel",
+    "type": "competitor",
+    "hotel_id": "9000001135737",
+    "ota": "traveloka",
+    "of": "Youstay Semarang"
+  },
+  {
+    "hotel_slug": "Front One Boutique",
+    "type": "competitor",
+    "hotel_id": "9000000559888",
+    "ota": "traveloka",
+    "of": "Youstay Semarang"
+  },
+
+  {
+    "hotel_slug": "Fovere",
+    "type": "competitor",
+    "hotel_id": "3000010010781",
+    "ota": "traveloka",
+    "of": "Youstay Semarang"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Gapura Residence",
+    "hotel_slug": "Gapura Residence",
+    "type": "self",
+    "hotel_id": "3000010002338",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Hotel Sonic",
+    "type": "competitor",
+    "hotel_id": "3000010008588",
+    "ota": "traveloka",
+    "of": "Gapura Residence"
+  },
+  {
+    "hotel_slug": "F&B Inn",
+    "type": "competitor",
+    "hotel_id": "9000000310331",
+    "ota": "traveloka",
+    "of": "Gapura Residence"
+  },
+  {
+    "hotel_slug": "Nozz Hotel",
+    "type": "competitor",
+    "hotel_id": "1000000551772",
+    "ota": "traveloka",
+    "of": "Gapura Residence"
+  },
+
+  {
+    "hotel_slug": "Smart Budget",
+    "type": "competitor",
+    "hotel_id": "3000010039023",
+    "ota": "traveloka",
+    "of": "Gapura Residence"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "name": "The Mangkoro",
+    "hotel_slug": "The Mangkoro",
+    "type": "self",
+    "hotel_id": "9000004358632",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Kalya Hotel",
+    "type": "competitor",
+    "hotel_id": "3000010009975",
+    "ota": "traveloka",
+    "of": "The Mangkoro"
+  },
+  {
+    "hotel_slug": "Kotagede Heritage",
+    "type": "competitor",
+    "hotel_id": "3000010010969",
+    "ota": "traveloka",
+    "of": "The Mangkoro"
+  },
+  {
+    "hotel_slug": "Bhumi Hotel",
+    "type": "competitor",
+    "hotel_id": "3000010006417",
+    "ota": "traveloka",
+    "of": "The Mangkoro"
+  },
+
+  {
+    "hotel_slug": "nDalem Nathan",
+    "type": "competitor",
+    "hotel_id": "9000004123815",
+    "ota": "traveloka",
+    "of": "The Mangkoro"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Desa Kepompong",
+    "hotel_slug": "Desa Kepompong",
+    "type": "self",
+    "hotel_id": "9000005690097",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Pesona Ketep",
+    "type": "competitor",
+    "hotel_id": "9000000970360",
+    "ota": "traveloka",
+    "of": "Desa Kepompong"
+  },
+  {
+    "hotel_slug": "Laras Asri",
+    "type": "competitor",
+    "hotel_id": "3000010000638",
+    "ota": "traveloka",
+    "of": "Desa Kepompong"
+  },
+  {
+    "hotel_slug": "D'Emmerick Salib",
+    "type": "competitor",
+    "hotel_id": "3000010002176",
+    "ota": "traveloka",
+    "of": "Desa Kepompong"
+  },
+
+  {
+    "hotel_slug": "Tetirah Boutique",
+    "type": "competitor",
+    "hotel_id": "3000010000462",
+    "ota": "traveloka",
+    "of": "Desa Kepompong"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Cozzy Stay",
+    "hotel_slug": "Cozzy Stay",
+    "type": "self",
+    "hotel_id": "9000000973907",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Dalu Hotel",
+    "type": "competitor",
+    "hotel_id": "295610",
+    "ota": "traveloka",
+    "of": "Cozzy Stay"
+  },
+  {
+    "hotel_slug": "Laras Asri",
+    "type": "competitor",
+    "hotel_id": "3000010000638",
+    "ota": "traveloka",
+    "of": "Cozzy Stay"
+  },
+  {
+    "hotel_slug": "D'Emmerick Salib",
+    "type": "competitor",
+    "hotel_id": "3000010002176",
+    "ota": "traveloka",
+    "of": "Cozzy Stay"
+  },
+
+  {
+    "hotel_slug": "Tetirah Boutique",
+    "type": "competitor",
+    "hotel_id": "3000010000462",
+    "ota": "traveloka",
+    "of": "Cozzy Stay"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Omni Rooms",
+    "hotel_slug": "Omni Rooms",
+    "type": "self",
+    "hotel_id": "9000005690097",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Pesona Ketep",
+    "type": "competitor",
+    "hotel_id": "9000000970360",
+    "ota": "traveloka",
+    "of": "Omni Rooms"
+  },
+  {
+    "hotel_slug": "Laras Asri",
+    "type": "competitor",
+    "hotel_id": "3000010000638",
+    "ota": "traveloka",
+    "of": "Omni Rooms"
+  },
+  {
+    "hotel_slug": "D'Emmerick Salib",
+    "type": "competitor",
+    "hotel_id": "3000010002176",
+    "ota": "traveloka",
+    "of": "Omni Rooms"
+  },
+
+  {
+    "hotel_slug": "Tetirah Boutique",
+    "type": "competitor",
+    "hotel_id": "3000010000462",
+    "ota": "traveloka",
+    "of": "Omni Rooms"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Sandi Guest House",
+    "hotel_slug": "Sandi Guest House",
+    "type": "self",
+    "hotel_id": "9000005690097",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Pesona Ketep",
+    "type": "competitor",
+    "hotel_id": "9000000970360",
+    "ota": "traveloka",
+    "of": "Sandi Guest House"
+  },
+  {
+    "hotel_slug": "Laras Asri",
+    "type": "competitor",
+    "hotel_id": "3000010000638",
+    "ota": "traveloka",
+    "of": "Sandi Guest House"
+  },
+  {
+    "hotel_slug": "D'Emmerick Salib",
+    "type": "competitor",
+    "hotel_id": "3000010002176",
+    "ota": "traveloka",
+    "of": "Sandi Guest House"
+  },
+
+  {
+    "hotel_slug": "Tetirah Boutique",
+    "type": "competitor",
+    "hotel_id": "3000010000462",
+    "ota": "traveloka",
+    "of": "Sandi Guest House"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Berlian Abadi Hotel",
+    "hotel_slug": "Berlian Abadi Hotel",
+    "type": "self",
+    "hotel_id": "9000005690097",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Pesona Ketep",
+    "type": "competitor",
+    "hotel_id": "9000000970360",
+    "ota": "traveloka",
+    "of": "Berlian Abadi Hotel"
+  },
+  {
+    "hotel_slug": "Laras Asri",
+    "type": "competitor",
+    "hotel_id": "3000010000638",
+    "ota": "traveloka",
+    "of": "Berlian Abadi Hotel"
+  },
+  {
+    "hotel_slug": "D'Emmerick Salib",
+    "type": "competitor",
+    "hotel_id": "3000010002176",
+    "ota": "traveloka",
+    "of": "Berlian Abadi Hotel"
+  },
+
+  {
+    "hotel_slug": "Tetirah Boutique",
+    "type": "competitor",
+    "hotel_id": "3000010000462",
+    "ota": "traveloka",
+    "of": "Berlian Abadi Hotel"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Candiland",
+    "hotel_slug": "Candiland",
+    "type": "self",
+    "hotel_id": "9000005690097",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Pesona Ketep",
+    "type": "competitor",
+    "hotel_id": "9000000970360",
+    "ota": "traveloka",
+    "of": "Candiland"
+  },
+  {
+    "hotel_slug": "Laras Asri",
+    "type": "competitor",
+    "hotel_id": "3000010000638",
+    "ota": "traveloka",
+    "of": "Candiland"
+  },
+  {
+    "hotel_slug": "D'Emmerick Salib",
+    "type": "competitor",
+    "hotel_id": "3000010002176",
+    "ota": "traveloka",
+    "of": "Candiland"
+  },
+
+  {
+    "hotel_slug": "Tetirah Boutique",
+    "type": "competitor",
+    "hotel_id": "3000010000462",
+    "ota": "traveloka",
+    "of": "Candiland"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Warhol",
+    "hotel_slug": "Warhol",
+    "type": "self",
+    "hotel_id": "9000005690097",
+    "ota": "traveloka",
+    "of": null
+  },
+  {
+    "hotel_slug": "Pesona Ketep",
+    "type": "competitor",
+    "hotel_id": "9000000970360",
+    "ota": "traveloka",
+    "of": "Warhol"
+  },
+  {
+    "hotel_slug": "Laras Asri",
+    "type": "competitor",
+    "hotel_id": "3000010000638",
+    "ota": "traveloka",
+    "of": "Warhol"
+  },
+  {
+    "hotel_slug": "D'Emmerick Salib",
+    "type": "competitor",
+    "hotel_id": "3000010002176",
+    "ota": "traveloka",
+    "of": "Warhol"
+  },
+
+  {
+    "hotel_slug": "Tetirah Boutique",
+    "type": "competitor",
+    "hotel_id": "3000010000462",
+    "ota": "traveloka",
+    "of": "Warhol"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Youstay Semarang",
+    "type": "self",
+    "url": "hotel-youstay-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Fovere Bandara",
+    "type": "competitor",
+    "of": "Youstay Semarang",
+    "url": "fovere-bandara-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Front One Boutique",
+    "type": "competitor",
+    "of": "Youstay Semarang",
+    "url": "front-one-boutique-tugu-muda-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Kiyana Hotel",
+    "type": "competitor",
+    "of": "Youstay Semarang",
+    "url": "kiyana-hotel-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Edsamara Hotel",
+    "type": "competitor",
+    "of": "Youstay Semarang",
+    "url": "edsamara-hotel-semarang-lawang-sewu/hotel/semarang-id",
+    "ota": "agoda"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Gapura Residence",
+    "type": "self",
+    "url": "gapura-residence/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Nozz Hotel",
+    "type": "competitor",
+    "of": "Gapura Residence",
+    "url": "nozz-hotel/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Smart Budget", 
+    "type": "competitor",
+    "of": "Gapura Residence",
+    "url": "smart-budget-hotel/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "F&B inn",
+    "type": "competitor",
+    "of": "Gapura Residence",
+    "url": "f-and-b-inn-sam-poo-kong-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Hotel Sonic",
+    "type": "competitor",
+    "of": "Gapura Residence",
+    "url": "hotel-sonic-airport-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "The Mangkoro",
+    "type": "self",
+    "url": "the-mangkoro-by-yuwono-hospitality-h8977289/hotel/yogyakarta-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Kalya Hotel",
+    "type": "competitor",
+    "of": "The Mangkoro",
+    "url": "kalya-hotel-yogyakarta/hotel/yogyakarta-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Kotagede Heritage",
+    "type": "competitor",
+    "of": "The Mangkoro",
+    "url": "kotagede-heritage/hotel/yogyakarta-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Bhumi Hotel",
+    "type": "competitor",
+    "of": "The Mangkoro",
+    "url": "bhumi-hostel_2/hotel/yogyakarta-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "nDalem Nathan",
+    "type": "competitor",
+    "of": "The Mangkoro",
+    "url": "ndalem-natan-royal-heritage_2/hotel/all/yogyakarta-id",
+    "ota": "agoda"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Desa Kepompong",
+    "type": "self",
+    "url": "desa-kepompong-by-sinergi/hotel/salatiga-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Tetirah Boutique",
+    "type": "competitor",
+    "of": "Desa Kepompong",
+    "url": "griya-tetirah/hotel/salatiga-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Laras Asri",
+    "type": "competitor",
+    "of": "Desa Kepompong",
+    "url": "laras-asri-resort-spa-sudirman-h20090175/hotel/salatiga-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "D'Emmerick Salib",
+    "type": "competitor",
+    "of": "Desa Kepompong",
+    "url": "d-emmerick-salib-putih-hotel-salatiga/hotel/salatiga-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Pesona Ketep",
+    "type": "competitor",
+    "of": "Desa Kepompong",
+    "url": "pesona-ketep/hotel/magelang-id",
+    "ota": "agoda"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Cozzy Stay",
+    "type": "self",
+    "url": "cozzy-stay-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Dalu Hotel",
+    "type": "competitor",
+    "of": "Cozzy Stay",
+    "url": "dalu-hotel/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Sisingamangaraja Guest House",
+    "type": "competitor",
+    "of": "Cozzy Stay",
+    "url": "sisingamangaraja-guest-house/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Aruuman",
+    "type": "competitor",
+    "of": "Cozzy Stay",
+    "url": "aruuman-hotel-simpanglima-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Queen Boutique Hotel",
+    "type": "competitor",
+    "of": "Cozzy Stay",
+    "url": "queen-boutique-hotel-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Omni Rooms",
+    "type": "self",
+    "url": "omni-rooms-by-sinergi/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Votel Krakatau",
+    "type": "competitor",
+    "of": "Omni Rooms",
+    "url": "votel-krakatau-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Upcity Hotel",
+    "type": "competitor",
+    "of": "Omni Rooms",
+    "url": "upcity-hotel-by-sajiwa/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Assa Hotel",
+    "type": "competitor",
+    "of": "Omni Rooms",
+    "url": "assa-hotel/hotel/all/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Batik Inn",
+    "type": "competitor",
+    "of": "Omni Rooms",
+    "url": "batik-inn-semarang-08888995588/hotel/semarang-id",
+    "ota": "agoda"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Sandi Guest House",
+    "type": "self",
+    "url": "sandi-guest-house-syariah-by-sinergi/hotel/banyuwangi-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Kedaton House",
+    "type": "competitor",
+    "of": "Sandi Guest House",
+    "url": "kedaton-house-syariah/hotel/banyuwangi-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Bluefire Homestay",
+    "type": "competitor",
+    "of": "Sandi Guest House",
+    "url": "bluefire-homestay-banyuwangi/hotel/banyuwangi-id",
+    "ota": "agoda"
+  },
+  { 
+    "name": "Tropical Paradiso",
+    "type": "competitor",
+    "of": "Sandi Guest House",
+    "url": "tropical-paradiso-homestay/hotel/all/banyuwangi-id",
+    "ota": "agoda"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Berlian Abadi Hotel",
+    "type": "self",
+    "url": "hotel-berlian-abadi-h10624495/hotel/banyuwangi-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Manyar Garden",
+    "type": "competitor",
+    "of": "Berlian Abadi Hotel",
+    "url": "manyar-garden-hotel/hotel/banyuwangi-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Mahkota Plengkung",
+    "type": "competitor",
+    "of": "Berlian Abadi Hotel",
+    "url": "hotel-mahkota-plengkung-banyuwangi/hotel/banyuwangi-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Mirah Hotel",
+    "type": "competitor",
+    "of": "Berlian Abadi Hotel",
+    "url": "mirah-hotel-resort-banyuwangi/hotel/banyuwangi-id",
+    "ota": "agoda"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Candiland",
+    "type": "self",
+    "url": "candiland/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Cozy Centre Residence",
+    "type": "competitor",
+    "of": "Candiland",
+    "url": "sweet-home-residence-anggrek-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Redliving Apartemen",
+    "type": "competitor",
+    "of": "Candiland",
+    "url": "sentraland-ecotel-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Candiview Hotel",
+    "type": "competitor",
+    "of": "Candiland",
+    "url": "candiview-hotel/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  
+
+
+
+
+
+  {
+    "name": "Warhol",
+    "type": "self",
+    "url": "residence-warhol-simpang-lima/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Cozy Centre Residence",
+    "type": "competitor",
+    "of": "Warhol",
+    "url": "sweet-home-residence-anggrek-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Redliving Apartemen",
+    "type": "competitor",
+    "of": "Warhol",
+    "url": "sentraland-ecotel-semarang/hotel/semarang-id",
+    "ota": "agoda"
+  },
+  {
+    "name": "Candiview Hotel",
+    "type": "competitor",
+    "of": "Warhol",
+    "url": "candiview-hotel/hotel/semarang-id",
+    "ota": "agoda"
+  }
+]
+
+
+

@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Youstay Semarang",
+      "hotel_slug": "Youstay Semarang",
+      "type": "self",
+      "hotel_id": "9000000883155",
+      "ota": "traveloka",
+      "of": null
+    },
+    {
+      "hotel_id": "3000020017992",
+      "hotel_slug": "Citrip Hotel",
+      "type": "competitor",
+      "ota": "traveloka",
+      "of": "Youstay Semarang"
+    },
+    {
+        "hotel_id": "9000000971696",
+        "hotel_slug": "Nite Day",
+        "type": "competitor",
+        "ota": "traveloka",
+        "of": "Youstay Semarang"
+      }
+  ]
+  
