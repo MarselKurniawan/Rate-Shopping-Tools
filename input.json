@@ -245,24 +245,24 @@
     "of": "Cozzy Stay"
   },
   {
-    "hotel_slug": "Laras Asri",
+    "hotel_slug": "Queen Boutique",
     "type": "competitor",
-    "hotel_id": "3000010000638",
+    "hotel_id": "9000002977652",
     "ota": "traveloka",
     "of": "Cozzy Stay"
   },
   {
-    "hotel_slug": "D'Emmerick Salib",
+    "hotel_slug": "Aruuman",
     "type": "competitor",
-    "hotel_id": "3000010002176",
+    "hotel_id": "9000000095263",
     "ota": "traveloka",
     "of": "Cozzy Stay"
   },
 
   {
-    "hotel_slug": "Tetirah Boutique",
+    "hotel_slug": "Sisingamangaraja Guest House",
     "type": "competitor",
-    "hotel_id": "3000010000462",
+    "hotel_id": "3000010001651",
     "ota": "traveloka",
     "of": "Cozzy Stay"
   },
@@ -287,36 +287,36 @@
     "name": "Omni Rooms",
     "hotel_slug": "Omni Rooms",
     "type": "self",
-    "hotel_id": "9000005690097",
+    "hotel_id": "9000003315998",
     "ota": "traveloka",
     "of": null
   },
   {
-    "hotel_slug": "Pesona Ketep",
+    "hotel_slug": "Votel Krakatau",
     "type": "competitor",
-    "hotel_id": "9000000970360",
+    "hotel_id": "9000000966623",
     "ota": "traveloka",
     "of": "Omni Rooms"
   },
   {
-    "hotel_slug": "Laras Asri",
+    "hotel_slug": "Upcity Hotel",
     "type": "competitor",
-    "hotel_id": "3000010000638",
+    "hotel_id": "9000004379240",
     "ota": "traveloka",
     "of": "Omni Rooms"
   },
   {
-    "hotel_slug": "D'Emmerick Salib",
+    "hotel_slug": "Assa Hotel",
     "type": "competitor",
-    "hotel_id": "3000010002176",
+    "hotel_id": "9000002453046",
     "ota": "traveloka",
     "of": "Omni Rooms"
   },
 
   {
-    "hotel_slug": "Tetirah Boutique",
+    "hotel_slug": "Batik Inn",
     "type": "competitor",
-    "hotel_id": "3000010000462",
+    "hotel_id": "9000003251631",
     "ota": "traveloka",
     "of": "Omni Rooms"
   },
@@ -349,36 +349,28 @@
     "name": "Sandi Guest House",
     "hotel_slug": "Sandi Guest House",
     "type": "self",
-    "hotel_id": "9000005690097",
+    "hotel_id": "9000006825272",
     "ota": "traveloka",
     "of": null
   },
   {
-    "hotel_slug": "Pesona Ketep",
+    "hotel_slug": "Bluefire Homestay",
     "type": "competitor",
-    "hotel_id": "9000000970360",
+    "hotel_id": "9000000475376",
     "ota": "traveloka",
     "of": "Sandi Guest House"
   },
   {
-    "hotel_slug": "Laras Asri",
+    "hotel_slug": "Kedaton House",
     "type": "competitor",
-    "hotel_id": "3000010000638",
+    "hotel_id": "9000000756253",
     "ota": "traveloka",
     "of": "Sandi Guest House"
   },
   {
-    "hotel_slug": "D'Emmerick Salib",
+    "hotel_slug": "Tropical Paradiso",
     "type": "competitor",
-    "hotel_id": "3000010002176",
-    "ota": "traveloka",
-    "of": "Sandi Guest House"
-  },
-
-  {
-    "hotel_slug": "Tetirah Boutique",
-    "type": "competitor",
-    "hotel_id": "3000010000462",
+    "hotel_id": "9000000967159",
     "ota": "traveloka",
     "of": "Sandi Guest House"
   },
@@ -414,36 +406,28 @@
     "name": "Berlian Abadi Hotel",
     "hotel_slug": "Berlian Abadi Hotel",
     "type": "self",
-    "hotel_id": "9000005690097",
+    "hotel_id": "3000020001812",
     "ota": "traveloka",
     "of": null
   },
   {
-    "hotel_slug": "Pesona Ketep",
+    "hotel_slug": "Manyar Garden",
     "type": "competitor",
-    "hotel_id": "9000000970360",
+    "hotel_id": "9000005941017",
     "ota": "traveloka",
     "of": "Berlian Abadi Hotel"
   },
   {
-    "hotel_slug": "Laras Asri",
+    "hotel_slug": "Mahkota Plengkung",
     "type": "competitor",
-    "hotel_id": "3000010000638",
+    "hotel_id": "3000010003624",
     "ota": "traveloka",
     "of": "Berlian Abadi Hotel"
   },
   {
-    "hotel_slug": "D'Emmerick Salib",
+    "hotel_slug": "Mirah Hotel",
     "type": "competitor",
-    "hotel_id": "3000010002176",
-    "ota": "traveloka",
-    "of": "Berlian Abadi Hotel"
-  },
-
-  {
-    "hotel_slug": "Tetirah Boutique",
-    "type": "competitor",
-    "hotel_id": "3000010000462",
+    "hotel_id": "3000010003652",
     "ota": "traveloka",
     "of": "Berlian Abadi Hotel"
   },
@@ -479,40 +463,33 @@
     "name": "Candiland",
     "hotel_slug": "Candiland",
     "type": "self",
-    "hotel_id": "9000005690097",
+    "hotel_id": "3000010043175",
     "ota": "traveloka",
     "of": null
   },
   {
-    "hotel_slug": "Pesona Ketep",
+    "hotel_slug": "Candiview Hotel",
     "type": "competitor",
-    "hotel_id": "9000000970360",
+    "hotel_id": "3000010001538",
     "ota": "traveloka",
     "of": "Candiland"
   },
   {
-    "hotel_slug": "Laras Asri",
+    "hotel_slug": "Redliving Apartemen",
     "type": "competitor",
-    "hotel_id": "3000010000638",
+    "hotel_id": "9000003159976",
     "ota": "traveloka",
     "of": "Candiland"
   },
   {
-    "hotel_slug": "D'Emmerick Salib",
+    "hotel_slug": "Cozy Centre Residence",
     "type": "competitor",
-    "hotel_id": "3000010002176",
+    "hotel_id": "9000003352507",
     "ota": "traveloka",
     "of": "Candiland"
   },
 
-  {
-    "hotel_slug": "Tetirah Boutique",
-    "type": "competitor",
-    "hotel_id": "3000010000462",
-    "ota": "traveloka",
-    "of": "Candiland"
-  },
-
+ 
 
 
 
@@ -551,39 +528,32 @@
     "name": "Warhol",
     "hotel_slug": "Warhol",
     "type": "self",
-    "hotel_id": "9000005690097",
+    "hotel_id": "9000001314146",
     "ota": "traveloka",
     "of": null
   },
   {
-    "hotel_slug": "Pesona Ketep",
+    "hotel_slug": "Candiview Hotel",
     "type": "competitor",
-    "hotel_id": "9000000970360",
+    "hotel_id": "3000010001538",
     "ota": "traveloka",
     "of": "Warhol"
   },
   {
-    "hotel_slug": "Laras Asri",
+    "hotel_slug": "Redliving Apartemen",
     "type": "competitor",
-    "hotel_id": "3000010000638",
+    "hotel_id": "9000003159976",
     "ota": "traveloka",
     "of": "Warhol"
   },
   {
-    "hotel_slug": "D'Emmerick Salib",
+    "hotel_slug": "Cozy Centre Residence",
     "type": "competitor",
-    "hotel_id": "3000010002176",
+    "hotel_id": "9000003352507",
     "ota": "traveloka",
     "of": "Warhol"
   },
 
-  {
-    "hotel_slug": "Tetirah Boutique",
-    "type": "competitor",
-    "hotel_id": "3000010000462",
-    "ota": "traveloka",
-    "of": "Warhol"
-  },
 
 
 
